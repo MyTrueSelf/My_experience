@@ -1,2 +1,2 @@
-# TeamSky
-융합캡스톤디자인
+# This git is about my experience.
+
